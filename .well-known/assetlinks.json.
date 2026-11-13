@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.escaner.documentos",
+        "sha256_cert_fingerprints": ["1C:83:97:09:E6:A0:5D:CC:F3:71:8D:A6:FC:C0:E9:51:04:46:DE:23:2F:E6:F4:AF:D8:0A:4A:E2:60:25:6E:ED"]
+      }
+    }]
